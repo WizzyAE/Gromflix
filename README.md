@@ -1,17 +1,3 @@
-# Gromflix
-
-Službeni repozitorij za preuzimanje Gromflix instalacijskih paketa.
-
-[Preuzmi Gromflix i pogledaj novosti](https://github.com/WizzyAE/Gromflix/releases/latest)
-
-## TV izdanja
-
-**Hisense VIDAA** koristi Gromflix kroz TV preglednik i Windows računalo na istoj kućnoj mreži. Na računalu u Gromflixu otvori **Uređaji · mobitel i TV → Uključi povezivanje / prikaži kod**. Na TV-u otvori prikazanu adresu s nastavkom /tv i upiši osmeroznamenkasti kod. Dok gledaš, Gromflix na računalu treba ostati otvoren.
-
-- [Upute za Hisense VIDAA](https://github.com/WizzyAE/Gromflix/releases/download/v0.3.20/VIDAA-UPUTE.txt)
-- [VIDAA 0.3.20 web ZIP za web-poslužitelj](https://github.com/WizzyAE/Gromflix/releases/download/v0.3.20/Gromflix-VIDAA-Web-0.3.20.zip)
-- [Android TV i Google TV · APK 0.3.11](https://github.com/WizzyAE/Gromflix/releases/download/v0.3.20/Gromflix-Android-0.3.11.apk)
-
 ## Autorska prava
 
 **© 2026 WizzyAE. Sva prava pridržana.** Gromflix nije otvorenog koda. Kod, izgled, GROM logotip, ikone i funkcije vlasništvo su autora.
